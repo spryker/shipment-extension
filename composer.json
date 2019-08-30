@@ -10,10 +10,6 @@
     "spryker/code-sniffer": "*",
     "spryker/testify": "*"
   },
-  "suggest": {
-    "spryker/calculation": "If you want to use Calculation plugins.",
-    "spryker/checkout": "If you want to use Checkout plugins."
-  },
   "autoload": {
     "psr-4": {
       "Spryker\\": "src/Spryker/"
@@ -30,7 +26,7 @@
   "prefer-stable": true,
   "extra": {
     "branch-alias": {
-      "dev-master": "4.0.x-dev"
+      "dev-master": "1.0.x-dev"
     }
   },
   "config": {
